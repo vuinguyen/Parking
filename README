@@ -23,3 +23,6 @@ The team members who built this are:
 Information about hackathon is at: 
 http://codeforcommunities.wikispaces.com/ParkingThief
 
+To download this app and run it for yourself, you need to get a cartodb account and API key. 
+Look at Resources/data/WebServiceCall.js on where to add this information.
+
