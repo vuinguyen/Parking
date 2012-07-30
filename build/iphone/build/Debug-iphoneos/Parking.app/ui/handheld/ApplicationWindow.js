@@ -1,1 +1,0 @@
-/Users/vuinguyen/Documents/Titanium CivicHackathon Workspace/Parking/Resources/ui/handheld/ApplicationWindow.js
