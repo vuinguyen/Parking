@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <property name="acs-oauth-secret-production" type="string">bgRgvvA3xN8J5FFLANnydV2EZFlYpLBL</property>
-    <property name="acs-oauth-key-production" type="string">KvdtRN2Swl67OFG2FMeLuMyKwn5lVLwb</property>
-    <property name="acs-api-key-production" type="string">fgkGOwt249KFlFMzkBO17rv8H4ZC6ftb</property>
-    <property name="acs-oauth-secret-development" type="string">Pdow03MkRRgrjEt9EgdpPfDEBmaXHTkV</property>
-    <property name="acs-oauth-key-development" type="string">DPpraN3HT7Q0DObp6OKFJ7SUyQbSRyyE</property>
-    <property name="acs-api-key-development" type="string">ts465YPuIW58lxZ3jxzQu4USMIajZYHE</property>
     <deployment-targets>
         <target device="mobileweb">true</target>
         <target device="iphone">true</target>
@@ -15,7 +9,7 @@
     </deployment-targets>
     <sdk-version>2.0.1.GA2</sdk-version>
     <id>com.corliosity.parking</id>
-    <name>Parking</name>
+    <name>Parking Thief</name>
     <version>1.0</version>
     <publisher>andrewcorliss</publisher>
     <url>http://www.corliosity.com</url>
@@ -51,7 +45,5 @@
         </splash>
         <theme>default</theme>
     </mobileweb>
-    <modules>
-        <module platform="commonjs" version="2.0.1">ti.cloud</module>
-    </modules>
+    <modules/>
 </ti:app>
